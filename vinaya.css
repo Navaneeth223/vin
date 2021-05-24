@@ -1,0 +1,76 @@
+body {
+    background-color: rgb(194, 230, 247);
+    margin: 10px;
+    padding: auto;
+}
+
+div {
+    height: 200px;
+    width: 90%;
+    display: inline-block;
+    position: relative;
+    left: 20px;
+}
+
+h1 {
+    size: 300px;
+    position: relative;
+    left: 20px;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    background-color: rgb(194, 230, 247);
+    border-color: mediumpurple;
+    border-width: 5px;
+    width: 6%;
+}
+
+a {
+    font-size: 30px;
+}
+
+.margin {
+    margin-bottom: 0;
+}
+
+.fix {
+    margin-top: 0;
+}
+
+.fix2 {
+    position: relative;
+    left: 35%;
+    bottom: 20px;
+}
+
+.hover:hover {
+    background-color: rgb(245, 242, 241);
+    border-radius: 10px;
+}
+
+.color {
+    background-color: #bfb;
+    background-image: url("https: //emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/joypixels/275/birthday-cake_1f382.png");
+    background-position: center;
+    width: auto;
+    height: auto;
+    border: 2px dashed #333;
+}
+
+.new {
+    background-color: rgb(231, 228, 12);
+    height: 100px;
+    width: 90%;
+    background-image: url("https://www.google.com/search?q=gifts+images+for+birthday&sxsrf=ALeKk03ban-8joLH4j9e0jSlt340waOTCg:1621861655334&tbm=isch&source=iu&ictx=1&fir=jrknrzDfH7OHeM%252CysQ_dR4vvaZXOM%252C_&vet=1&usg=AI4_-kQaEPyTmfkTY-HdHJqcyHgDPuxyWw&sa=X&ved=2ahUKEwiUxty-seLwAhXTILcAHXj2DtkQ9QF6BAgKEAE#imgrc=jrknrzDfH7OHeM");
+    width: 350px;
+    height: 100px;
+    border: 2px dashed #333;
+}
+
+.new2 {
+    background-color: turquoise;
+}
